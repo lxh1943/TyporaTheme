@@ -6,11 +6,10 @@ email  wjtzncrcz19@grr.la
 last_checkin  2025-05-01 18:21:35.271376+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.109G  2025-05-02 18:21:34+08:00  (剩余 1.109G 11:03:03.494783)
+sub_info  0B  1.109G  2025-05-02 18:21:34+08:00  (剩余 1.109G 10:42:25.553887)
 sub_url  https://network.ayucloud.nl/link/NIVOHItvlbTkZkpV?clash=1
 time  2025-05-01 18:21:36.298653+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
