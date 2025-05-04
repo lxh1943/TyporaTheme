@@ -10,6 +10,7 @@ sub_info  0B  1.081G  2025-05-05 03:14:30+08:00  (剩余 1.081G 15:17:50.608017)
 sub_url  https://network.ayucloud.nl/link/Q2nZWgAugKfWdU75?clash=1
 time  2025-05-04 03:14:31.773319+08:00
 type  sspanel
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
