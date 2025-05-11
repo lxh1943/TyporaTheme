@@ -1,18 +1,18 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
+banned_domains  femailtor.com
 buy  pass
 email  aqbbxkcbc183@teihu.com
-last_checkin  2025-05-10 00:24:36.123358+08:00
+last_checkin  2025-05-12 04:19:28.775734+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  120M  2025-05-08 04:41:40+08:00  (剩余 120M -4 days, 1:03:26.801091)
+sub_info  0B  242M  2025-05-08 04:41:40+08:00  (剩余 242M -4 days, 0:20:58.940092)
 sub_url  https://network.ayucloud.nl/link/U1TlhwCBuMrFHZn3?clash=1
 time  2025-05-07 04:41:42.232013+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(gqyzpgrrg957@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(zodxphbb96@femailtor.com)
 
 [qlgq.top]
 
