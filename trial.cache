@@ -7,10 +7,11 @@ email  bzanvdco891@linshiyou.com
 last_checkin  2025-05-16 11:55:54.778492+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.205G  2025-05-17 11:55:54+08:00  (剩余 1.205G 11:31:01.766990)
+sub_info  0B  1.205G  2025-05-17 11:55:54+08:00  (剩余 1.205G 11:07:42.599181)
 sub_url  https://network.ayucloud.nl/link/9ZCcmze7kXpawXRi?clash=1
 time  2025-05-16 11:55:55.727846+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
