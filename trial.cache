@@ -6,10 +6,11 @@ email  gpifnvivb882@965.tmmad.com
 last_checkin  2025-05-30 02:51:19.685349+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.032G  2025-05-31 02:51:19+08:00  (剩余 1.032G 19:11:48.839897)
+sub_info  0B  1.032G  2025-05-31 02:51:19+08:00  (剩余 1.032G 17:11:59.760920)
 sub_url  https://network.ayucloud.nl/link/2j87S38lGzdubL4q?clash=1
 time  2025-05-30 02:51:20.565534+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [qlgq.top]
 
