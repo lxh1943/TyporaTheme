@@ -6,10 +6,11 @@ email  qwvjrwad442@grr.la
 last_checkin  2025-06-02 07:39:39.838036+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.041G  2025-06-03 07:39:39+08:00  (剩余 1.041G 21:53:28.482386)
+sub_info  0B  1.041G  2025-06-03 07:39:39+08:00  (剩余 1.041G 20:18:52.554210)
 sub_url  https://network.ayucloud.nl/link/ot3ymEOiWEgKyemY?clash=1
 time  2025-06-02 07:39:40.801995+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 
