@@ -11,6 +11,7 @@ sub_info  0B  1.083G  2025-06-20 04:24:34+08:00  (剩余 1.083G 15:04:45.559215)
 sub_url  https://network.ayucloud.nl/link/pqJDKQgmqWFmBSn2?clash=1
 time  2025-06-19 04:24:35.535792+08:00
 type  sspanel
+更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
