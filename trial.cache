@@ -7,11 +7,11 @@ email  qogkarcqi630@guerrillamail.de
 last_checkin  2025-07-08 20:45:09.093752+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.078G  2025-07-09 20:45:08+08:00  (剩余 1.078G 17:06:35.208104)
+sub_info  0B  1.078G  2025-07-09 20:45:08+08:00  (剩余 1.078G 16:21:53.139457)
 sub_url  https://network.ayucloud.nl/link/V3n3zn4c7keyY5qS?clash=1
 time  2025-07-08 20:45:10.068085+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
