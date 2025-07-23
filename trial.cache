@@ -1,17 +1,17 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  lista.cc  psnator.com  snapmail.cc  xxxhi.cc
+banned_domains  lista.cc  psnator.com  snapmail.cc  xxxhi.cc  mydefipet.live
 buy  pass
 email  jflleww981@jkb.tmmad.com
 last_checkin  2025-07-23 01:21:08.954244+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.663G  2025-07-23 15:44:03+08:00  (剩余 1.663G 0:19:09.962757)
+sub_info  0B  1.663G  2025-07-23 15:44:03+08:00  (剩余 1.663G -1 day, 23:55:54.742869)
 sub_url  https://network.ayucloud.nl/link/fIyzmSIF9l6ybqLy?clash=1
 time  2025-07-22 15:44:04.925129+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ijyudzwxj218@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xnbtyaa573@mydefipet.live)
 
 [qlgq.top]
 
