@@ -7,10 +7,11 @@ email  mzwymmcu211@ipiso.tmmad.com
 last_checkin  2025-07-26 22:19:37.630208+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.104G  2025-07-27 22:19:37+08:00  (剩余 1.104G 21:54:40.032659)
+sub_info  0B  1.104G  2025-07-27 22:19:37+08:00  (剩余 1.104G 21:30:17.839522)
 sub_url  https://network.ayucloud.nl/link/kQJS6d9rUih8VJ3z?clash=1
 time  2025-07-26 22:19:38.527703+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
