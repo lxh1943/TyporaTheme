@@ -7,16 +7,17 @@ email  zfitqtv413@tmpnator.live
 last_checkin  2025-10-04 01:37:55.377089+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  1.311G  1.761G  2025-10-04 21:26:22+08:00  (剩余 460.9M 0:51:09.188430)
+sub_info  1.363G  1.761G  2025-10-04 21:26:22+08:00  (剩余 407.3M 0:05:28.164137)
 sub_url  https://network.ayucloud.nl/link/EbHjTxzkl8Tway3C?clash=1
 time  2025-10-03 21:26:23.637950+08:00
 type  sspanel
+更新订阅链接/续费续签失败  注册失败(codnfxw205@moakt.co): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ganzaca351@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1cc25eab60>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(fehlpwyc998@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7d0dceb190>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
