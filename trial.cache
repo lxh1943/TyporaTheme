@@ -7,7 +7,7 @@ email  fkdfbtm406@guerrillamail.biz
 last_checkin  2025-10-09 02:29:51.396391+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.235G  2025-10-10 02:29:51+08:00  (剩余 1.235G 23:14:23.984040)
+sub_info  0B  1.235G  2025-10-10 02:29:51+08:00  (剩余 1.235G 22:52:22.392028)
 sub_url  https://network.ayucloud.nl/link/ohYcOJQh2SJMgTAU?clash=1
 time  2025-10-09 02:29:52.285074+08:00
 type  sspanel
@@ -16,7 +16,7 @@ type  sspanel
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wpoippyqg865@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb14a4f69b0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(upspvtbtk293@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f34409eb130>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
