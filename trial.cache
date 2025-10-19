@@ -7,17 +7,17 @@ email  giuwxqgsa908@guerrillamail.com
 last_checkin  2025-10-19 11:16:21.391037+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  858.8M  1.079G  2025-10-20 11:16:21+08:00  (剩余 246.2M 13:00:15.590366)
+sub_info  858.8M  1.079G  2025-10-20 11:16:21+08:00  (剩余 246.2M 12:37:58.651091)
 sub_url  https://network.ayucloud.nl/link/IoyVHLSSMyBh21E5?clash=1
 time  2025-10-19 11:16:22.483223+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(wmvmxtiak391@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(qrypiua59@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xphqkesxg414@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f29de5928c0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(iwosreyg932@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7878530070>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
