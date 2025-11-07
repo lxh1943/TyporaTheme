@@ -7,7 +7,7 @@ email  cbbfxjane778@linshiyou.com
 last_checkin  2025-11-08 01:40:46.279876+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.107G  2025-11-09 01:40:45+08:00  (剩余 1.107G 20:03:20.143924)
+sub_info  0B  1.107G  2025-11-09 01:40:45+08:00  (剩余 1.107G 19:22:22.155122)
 sub_url  https://network.ayucloud.nl/link/lOcQ59W5gcC3FAoT?clash=1
 time  2025-11-08 01:40:47.344193+08:00
 type  sspanel
@@ -16,7 +16,7 @@ type  sspanel
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(sopsqgmco147@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f80e9a537c0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(oxcjvsg868@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f007d2daef0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
