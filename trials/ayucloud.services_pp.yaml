@@ -1019,7 +1019,27 @@ rules:
 - DOMAIN,xp.apple.com,🚀 节点选择
 - DOMAIN-SUFFIX,xvideos.com,🚀 节点选择
 - DOMAIN-SUFFIX,yadi.sk,🚀 节点选择
-- DOMAIN,🚀 节点选择
+- DOMAIN-SUFFIX,yahoo.com,🚀 节点选择
+- DOMAIN-SUFFIX,yandex.ru,🚀 节点选择
+- DOMAIN-SUFFIX,ycombinator.com,🚀 节点选择
+- DOMAIN-SUFFIX,yesasia.com,🚀 节点选择
+- DOMAIN-SUFFIX,yes-news.com,🚀 节点选择
+- DOMAIN-SUFFIX,yimg.com,🚀 节点选择
+- DOMAIN-SUFFIX,ying.com,🚀 节点选择
+- DOMAIN-SUFFIX,yomiuri.co.jp,🚀 节点选择
+- DOMAIN-SUFFIX,you-get.org,🚀 节点选择
+- DOMAIN-SUFFIX,youtu.be,🚀 节点选择
+- DOMAIN-KEYWORD,youtube,🚀 节点选择
+- DOMAIN-SUFFIX,yoyo.org,🚀 节点选择
+- DOMAIN-SUFFIX,yt.be,🚀 节点选择
+- DOMAIN-SUFFIX,ytimg.com,🚀 节点选择
+- DOMAIN-SUFFIX,zaobao.com,🚀 节点选择
+- DOMAIN-SUFFIX,zaobao.com.sg,🚀 节点选择
+- DOMAIN-SUFFIX,zb.com,🚀 节点选择
+- DOMAIN-SUFFIX,zello.com,🚀 节点选择
+- DOMAIN-SUFFIX,zeronet.io,🚀 节点选择
+- DOMAIN-SUFFIX,z-lib.org,🚀 节点选择
+- DOMAIN-SUFFIX,zoom.us,🚀 节点选择
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
 - DOMAIN-SUFFIX,ip6-loopback,DIRECT
@@ -1986,27 +2006,10 @@ rules:
 - DOMAIN-SUFFIX,wifiapidd.51y5.net,REJECT
 - DOMAIN-SUFFIX,wkanc.51y5.net,REJECT
 - DOMAIN-SUFFIX,ad.wretch.cc,REJECT
-- DOMAIN-SUFFIX,ads.yahoo.com,REJECT
-- DOMAIN-SUFFIX,adserver.yahoo.com,REJECT
-- DOMAIN-SUFFIX,adss.yahoo.com,REJECT
-- DOMAIN-SUFFIX,analytics.query.yahoo.com,REJECT
-- DOMAIN-SUFFIX,analytics.yahoo.com,REJECT
 - DOMAIN-SUFFIX,ane.yahoo.co.jp,REJECT
 - DOMAIN-SUFFIX,ard.yahoo.co.jp,REJECT
-- DOMAIN-SUFFIX,beap-bc.yahoo.com,REJECT
-- DOMAIN-SUFFIX,clicks.beap.bc.yahoo.com,REJECT
-- DOMAIN-SUFFIX,comet.yahoo.com,REJECT
-- DOMAIN-SUFFIX,doubleplay-conf-yql.media.yahoo.com,REJECT
 - DOMAIN-SUFFIX,flurry.com,REJECT
-- DOMAIN-SUFFIX,gemini.yahoo.com,REJECT
-- DOMAIN-SUFFIX,geo.yahoo.com,REJECT
-- DOMAIN-SUFFIX,js-apac-ss.ysm.yahoo.com,REJECT
-- DOMAIN-SUFFIX,locdrop.query.yahoo.com,REJECT
-- DOMAIN-SUFFIX,onepush.query.yahoo.com,REJECT
-- DOMAIN-SUFFIX,p3p.yahoo.com,REJECT
-- DOMAIN-SUFFIX,ws.progrss.yahoo.com,REJECT
 - DOMAIN-SUFFIX,yads.yahoo.co.jp,REJECT
-- DOMAIN-SUFFIX,ybp.yahoo.com,REJECT
 - DOMAIN-SUFFIX,logger.baofeng.com,REJECT
 - DOMAIN-SUFFIX,xs.houyi.baofeng.net,REJECT
 - DOMAIN-SUFFIX,adm.funshion.com,REJECT
@@ -2038,10 +2041,8 @@ rules:
 - DOMAIN-SUFFIX,azabu-u.ac.jp,REJECT
 - DOMAIN-SUFFIX,couchcoaster.jp,REJECT
 - DOMAIN-SUFFIX,delivery.dmkt-sp.jp,REJECT
-- DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT
 - DOMAIN-SUFFIX,nichibenren.or.jp,REJECT
 - DOMAIN-SUFFIX,nicorette.co.kr,REJECT
-- DOMAIN-SUFFIX,youtube.112.2o7.net,REJECT
 - DOMAIN-SUFFIX,acsystem.wasu.tv,REJECT
 - DOMAIN-SUFFIX,ads.wasu.tv,REJECT
 - DOMAIN-SUFFIX,afp.wasu.tv,REJECT
