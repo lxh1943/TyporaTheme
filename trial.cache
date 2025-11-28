@@ -11,15 +11,15 @@ sub_info  0B  1.718G  2025-11-22 21:49:20+08:00  (剩余 1.718G 0:09:49.268166)
 sub_url  https://network.ayucloud.nl/link/tLuJjLqBsm2TOQi3?clash=1
 time  2025-11-21 21:49:23.110947+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(rdhaiymx621@bareed.ws): 邮箱后缀已被拉黑
+更新订阅链接/续费续签失败  注册失败(mjvcbrmj753@tmpmail.org): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(trivsdqx677@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
+更新订阅链接/续费续签失败  注册失败(jzgkemnt4@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
 
 [cyanmori.com]
 
