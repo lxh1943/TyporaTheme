@@ -1946,7 +1946,6 @@ rules:
 - DOMAIN-SUFFIX,sanya1.com,REJECT
 - DOMAIN-SUFFIX,scupio.com,REJECT
 - DOMAIN-SUFFIX,shuiguo.com,REJECT
-- DOMAIN-SUFFIX,similarweb.com,REJECT
 - DOMAIN-SUFFIX,sitemeter.com,REJECT
 - DOMAIN-SUFFIX,sitescout.com,REJECT
 - DOMAIN-SUFFIX,sitetag.us,REJECT
